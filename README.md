@@ -1,1 +1,1 @@
-Este es el proyecto base del ejercicio de señales.
+Este es el Trabajo Práctico de señales en Godot para la materia Prototipado Digital.
